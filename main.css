@@ -1,0 +1,87 @@
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav li {
+  display: inline;
+}
+.nav  img{
+     width: 13%;
+    height: 13%;
+}
+.jumbotron {
+  background-image:url('http://coolblackppt.com/wp-content/uploads/2013/07/Sinding-larsen-a-leeetle-tutorial-on-making-a-nice-banner-background.png');
+  height: 500px;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: #fff;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+}
+
+.jumbotron p {
+  font-size: 20px;
+  color: #fff;
+}
+
+.libros-oferta {
+    background-color: #efefef;
+    border-bottom:1px solid #dbdbdb
+    }
+.libros-oferta h2 {
+    color:#393c3d;
+    font-size: 24px;
+    
+    }
+.libros-oferta p {
+    font-size: 15px;
+    margin-bottom:13px;
+    
+    }
+footer{
+    
+    padding: 20px;
+    
+}
+
+footer p {
+    
+   font-size: 11px;
+
+   color:#5a5a5a;
+   text-align: center;
+   font-family: 'Shift', sans-serif;
+   font-weight: bold;
+}
+.tabla-libros {
+    background-color: #efefef;
+    border-bottom:1px solid #dbdbdb
+    }
+.tabla-libros h2 {
+    color:#393c3d;
+    font-size: 24px;
+    
+    }
+.tabla-libros p {
+    font-size: 15px;
+    margin-bottom:13px;
+    
+    }
+.tabla-libros .container .thumbnail {
+    width: 20%;
+    height: 40%;
+    
+}
